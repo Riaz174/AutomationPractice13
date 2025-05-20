@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FunctionalTestingSuite" duration-ms="11167" started-at="2025-05-20T15:15:01 EDT" finished-at="2025-05-20T15:15:12 EDT">
+    <groups>
+    </groups>
+    <test name="RegressionTesting" duration-ms="10957" started-at="2025-05-20T15:15:01 EDT" finished-at="2025-05-20T15:15:12 EDT">
+      <class name="Capstone.AutomationPractice13.Property">
+        <test-method status="PASS" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:Capstone.AutomationPractice13.Property@3dfc5fb8]" name="Browsers" is-config="true" duration-ms="3443" started-at="2025-05-20T15:15:01 EDT" finished-at="2025-05-20T15:15:05 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Capstone.AutomationPractice13.Property@3dfc5fb8]" name="f" duration-ms="127" started-at="2025-05-20T15:15:05 EDT" finished-at="2025-05-20T15:15:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Capstone.AutomationPractice13.Property@3dfc5fb8]" name="afterMethod" is-config="true" duration-ms="7151" started-at="2025-05-20T15:15:05 EDT" finished-at="2025-05-20T15:15:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Capstone.AutomationPractice13.Property -->
+    </test> <!-- RegressionTesting -->
+    <test name="RegressionTestingEdge" duration-ms="11167" started-at="2025-05-20T15:15:01 EDT" finished-at="2025-05-20T15:15:12 EDT">
+      <class name="Capstone.AutomationPractice13.Property">
+        <test-method status="PASS" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:Capstone.AutomationPractice13.Property@b7dd107]" name="Browsers" is-config="true" duration-ms="3360" started-at="2025-05-20T15:15:01 EDT" finished-at="2025-05-20T15:15:04 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Capstone.AutomationPractice13.Property@b7dd107]" name="f" duration-ms="107" started-at="2025-05-20T15:15:04 EDT" finished-at="2025-05-20T15:15:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Capstone.AutomationPractice13.Property@b7dd107]" name="afterMethod" is-config="true" duration-ms="7372" started-at="2025-05-20T15:15:05 EDT" finished-at="2025-05-20T15:15:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Capstone.AutomationPractice13.Property -->
+    </test> <!-- RegressionTestingEdge -->
+  </suite> <!-- FunctionalTestingSuite -->
+</testng-results>
